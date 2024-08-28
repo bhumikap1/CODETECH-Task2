@@ -127,7 +127,7 @@ This project includes a basic version that can be set up locally. Detailed instr
 To clone this repository and set up the project on your local machine, use the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/bhumikap1/CODETECH-Task2.git
 ```
 
 ## License
